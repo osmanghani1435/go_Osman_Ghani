@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" modified="2024-07-01T04:04:24.497Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="3gmtW6QPPkzqw3Wo3cDD" version="24.6.4" type="device">
+  <diagram name="Page-1" id="siajDEGxvjrqyRRz3EhV">
+    <mxGraphModel dx="1730" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VBUKq7cMq8On3jHgagRF-1" value="Start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VBUKq7cMq8On3jHgagRF-2" value="Input (l.w)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VBUKq7cMq8On3jHgagRF-4" value="Rectangle Area= L&quot;W&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="220" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VBUKq7cMq8On3jHgagRF-5" value="Output&lt;div&gt;&amp;nbsp;Rectangle Area&amp;nbsp;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="320" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VBUKq7cMq8On3jHgagRF-6" value="End" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-725" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VBUKq7cMq8On3jHgagRF-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="VBUKq7cMq8On3jHgagRF-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-660" y="150" as="sourcePoint" />
+            <mxPoint x="-650" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VBUKq7cMq8On3jHgagRF-10" value="To check id the are of the rectangle of the&amp;nbsp;&lt;div&gt;rectangle is even or odd&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="170" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VBUKq7cMq8On3jHgagRF-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VBUKq7cMq8On3jHgagRF-14" target="VBUKq7cMq8On3jHgagRF-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VBUKq7cMq8On3jHgagRF-14" value="Start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VBUKq7cMq8On3jHgagRF-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VBUKq7cMq8On3jHgagRF-15" target="VBUKq7cMq8On3jHgagRF-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VBUKq7cMq8On3jHgagRF-15" value="Input (L.W)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VBUKq7cMq8On3jHgagRF-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VBUKq7cMq8On3jHgagRF-17" target="VBUKq7cMq8On3jHgagRF-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VBUKq7cMq8On3jHgagRF-17" value="Area + L*W" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="380" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VBUKq7cMq8On3jHgagRF-19" value="Area %2 ==0" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="510" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VBUKq7cMq8On3jHgagRF-21" value="Output&lt;div&gt;&quot;Odd area&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VBUKq7cMq8On3jHgagRF-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="VBUKq7cMq8On3jHgagRF-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-220" y="550" as="sourcePoint" />
+            <mxPoint x="-170" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VBUKq7cMq8On3jHgagRF-23" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="518" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VBUKq7cMq8On3jHgagRF-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VBUKq7cMq8On3jHgagRF-24" target="VBUKq7cMq8On3jHgagRF-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VBUKq7cMq8On3jHgagRF-24" value="Output&lt;div&gt;&quot;Odd area&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VBUKq7cMq8On3jHgagRF-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.408;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="VBUKq7cMq8On3jHgagRF-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-300" y="590" as="sourcePoint" />
+            <mxPoint x="-250" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VBUKq7cMq8On3jHgagRF-26" value="END" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VBUKq7cMq8On3jHgagRF-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="VBUKq7cMq8On3jHgagRF-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-130" y="570" as="sourcePoint" />
+            <mxPoint x="-120" y="830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-130" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
