@@ -20,7 +20,7 @@ func main() {
 		fmt.Println("that has two types")
 		fmt.Println("Negative and Positive")
 		fmt.Println("Originated by Osman Ghani")
-		fmt.Println("if you enjoy something that is really hard, it means you're really strong")
+		fmt.Println("if you enjoy something which is really hard, it means you're really strong")
 	} else {
 		fmt.Println("Love is like your typo mistake")
 		fmt.Println("Just write 'love' in lowercase")
