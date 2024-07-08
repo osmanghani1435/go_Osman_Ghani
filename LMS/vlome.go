@@ -8,11 +8,11 @@ import (
 func main() {
 	var radius, height float64
 
-	// Prompt user for radius
+	// Print user for radius
 	fmt.Print("Enter the radius of the tube: ")
 	fmt.Scan(&radius)
 
-	// Prompt user for height
+	// Print user for height
 	fmt.Print("Enter the height of the tube: ")
 	fmt.Scan(&height)
 
