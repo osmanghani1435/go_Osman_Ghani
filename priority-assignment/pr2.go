@@ -24,20 +24,22 @@ func main() {
 
 	fmt.Println("enter a duration: ")
 	fmt.Scan(&duration)
-	 fmt.Println("enter a project: ")
-	 fmt.Scan(&difficulty)
+	fmt.Println("enter a project: ")
+	fmt.Scan(&difficulty)
 
-	 var budgetscore, durationScore, diffScore int
+	var budgetscore, durationScore, diffScore int
 
-	 if budget >= 0 && budget >= 50 {
+	if budget >= 0 && budget >= 50 {
 		budgetScore = 4
 
-	 } else if budget>= 80{
+	} else if budget >= 80 {
 		budgetScore = 3
-	 } else if {
-		budgetScore >= 100
+	} else if budgetScore >= 100 {
+
 		budgetScore = 2
-	
-	 }
+
+	}
+
+	difficulty >= 0 && difficulty <= 20
 
 }

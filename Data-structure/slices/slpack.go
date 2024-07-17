@@ -15,7 +15,7 @@ func main(){
 	// compact -> remove dublicate (for sorted slice)
 	var number []int := []int{1,1,1,1,1,1,1,2,33,3,3,3,3,}
 	slices.Compact(numbers)
-	fmt.Println(result)
+	fmt.Println(r)
 
 
 }
